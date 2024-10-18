@@ -1,0 +1,2 @@
+# YZX-Wookteam
+wookteam协作平台searchinfo接口SQL注入检测脚本
